@@ -4,6 +4,7 @@ PHPExcelReader/SpreadsheetReader
 This is the Spreadsheet_Excel_Reader class from http://code.google.com/p/php-excel-reader/.
 This PHP library expands on the great work done in the PHP Excel Reader project on SourceForge.
 + Some patches to make it work with newer PHP versions
++ Support for spanish excel versions
 
 It reads the binary format of XLS files directly and can return values and formats from any cell.
 
